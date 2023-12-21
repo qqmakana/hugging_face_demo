@@ -1,1 +1,1 @@
-# hugging_face_demo
+Detect Earth Tires
